@@ -1,0 +1,49 @@
+Q1. Create a takes a factory function that gives useful object to about signup details e.g. username, email, passwords
+Q2. you have to take an array and cover all the arguments as much as it can be and find factorial to it ------
+Q3. Write a function if string exists or not?
+Q4. 50 or any random items and 83 to display in JSON how to repeat in js for in or map function
+
+--> Palindrome Checker: Write a function to check if a given string is a palindrome or not.
+--> FizzBuzz: Write a function that prints numbers from 1 to n, but for multiples of 3 print "Fizz" instead of the number and for the multiples of 5 print "Buzz". For numbers that are multiples of both three and five print "FizzBuzz".
+--> Reverse a String: Write a function to reverse a given string.
+--> Anagram Checker: Write a function to check if two given strings are anagrams of each other.
+--> Factorial Calculator: Write a function to calculate the factorial of a given number.
+--> Fibonacci Sequence: Write a function to generate the Fibonacci sequence up to a certain number of terms.
+--> Array Chunking: Write a function that splits an array into chunks of a specified size.
+--> Array Flattening: Write a function to flatten a nested array.
+--> Find the Longest Word: Write a function that takes a string and returns the longest word in it.
+--> Merge Two Sorted Arrays: Write a function that merges two sorted arrays into a single sorted array.
+--> Binary Search: Write a function to perform a binary search on a sorted array.
+--> Object Key Capitalization: Write a function to capitalize the keys of an object.
+--> Counting Characters: Write a function to count the occurrences of each character in a given string.
+--> Remove Duplicates: Write a function to remove duplicates from an array.
+--> Validate Email: Write a function to validate an email address.
+--> Find the Missing Number: Write a function to find the missing number in an array of integers.
+--> Deep Clone an Object: Write a function to create a deep clone of a nested object.
+--> Calculate Array Sum: Write a function to calculate the sum of all elements in an array.
+--> Check for Prime Numbers: Write a function to check if a number is prime or not.
+--> Linked List Operations: Implement basic operations like insert, delete, search on a singly linked list.
+
+Object, Functions, Arrays Problems
+
+--> Data Filtering and Sorting: Given an array of objects representing products, write a function to filter products based on criteria such as price range, category, or availability, and sort them by price or another attribute.
+
+--> User Authentication and Authorization: Implement JavaScript functions to handle user authentication and authorization tasks, such as verifying login credentials, managing user sessions, and restricting access to certain features or resources based on user roles.
+
+--> Search Functionality: Develop a search functionality for a website or application using JavaScript functions to filter through an array of objects or search within a dataset retrieved from an API. Implement features like autocomplete suggestions or advanced search filters.
+
+--> Data Transformation: Write functions to transform data from one format to another, such as converting an array of objects into a nested object or restructuring JSON data received from an API into a format suitable for display in the user interface.
+
+--> Form Validation and Submission: Create JavaScript functions to validate form inputs, including checking for required fields, validating email addresses, ensuring password strength, and displaying error messages. Additionally, implement functions to handle form submission, including client-side validation and sending data to a server.
+
+--> Interactive Charts and Graphs: Utilize JavaScript libraries like Chart.js or D3.js to create interactive charts and graphs based on data stored in arrays or objects. Implement functions to update the chart dynamically in response to user interactions or changes in the underlying data.
+
+--> CRUD Operations: Implement Create, Read, Update, and Delete (CRUD) operations for managing data in a web application. Use JavaScript functions to add new items to a list, retrieve existing items, update item details, and delete items from a dataset stored locally or on a server.
+
+--> Forming API Requests: Write JavaScript functions to construct HTTP requests to interact with RESTful APIs, including specifying request parameters, headers, and payloads. Use built-in methods like fetch() or libraries like Axios to send requests and handle responses asynchronously.
+
+--> Pagination and Infinite Scrolling: Develop pagination or infinite scrolling functionality for displaying large datasets in web applications. Write JavaScript functions to load additional data as the user scrolls down the page or navigates through paginated pages.
+
+--> Localization and Internationalization: Implement JavaScript functions to support localization and internationalization in a web application, including translating text strings based on the user's preferred language, formatting dates and numbers according to locale-specific conventions, and managing language preferences.
+
+--> These real-world problems involve various JavaScript concepts and techniques related to functions, arrays, objects, and their methods, and they are commonly encountered in web development projects. Solving these problems will help you gain practical experience and strengthen your skills in building interactive and dynamic web applications.
