@@ -8,7 +8,9 @@ Q4. 50 or any random items and 83 to display in JSON how to repeat in js for in 
 --> Reverse a String: Write a function to reverse a given string.
 --> Anagram Checker: Write a function to check if two given strings are anagrams of each other.
 --> Factorial Calculator: Write a function to calculate the factorial of a given number.
+-----------------------
 --> Fibonacci Sequence: Write a function to generate the Fibonacci sequence up to a certain number of terms.
+-----------------------
 --> Array Chunking: Write a function that splits an array into chunks of a specified size.
 --> Array Flattening: Write a function to flatten a nested array.
 --> Find the Longest Word: Write a function that takes a string and returns the longest word in it.
