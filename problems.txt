@@ -15,15 +15,16 @@ Q4. 50 or any random items and 83 to display in JSON how to repeat in js for in 
 --> Array Flattening: Write a function to flatten a nested array.
 --> Find the Longest Word: Write a function that takes a string and returns the longest word in it.
 --> Merge Two Sorted Arrays: Write a function that merges two sorted arrays into a single sorted array.
---> Binary Search: Write a function to perform a binary search on a sorted array.
 --> Object Key Capitalization: Write a function to capitalize the keys of an object.
 --> Counting Characters: Write a function to count the occurrences of each character in a given string.
 --> Remove Duplicates: Write a function to remove duplicates from an array.
---> Validate Email: Write a function to validate an email address.
---> Find the Missing Number: Write a function to find the missing number in an array of integers.
+--> Find the Missing Number: Write a function to find the missing number in an array of integers between 1 to 9.
 --> Deep Clone an Object: Write a function to create a deep clone of a nested object.
 --> Calculate Array Sum: Write a function to calculate the sum of all elements in an array.
 --> Check for Prime Numbers: Write a function to check if a number is prime or not.
+
+--> Binary Search: Write a function to perform a binary search on a sorted array.
+--> Validate Email: Write a function to validate an email address.
 --> Linked List Operations: Implement basic operations like insert, delete, search on a singly linked list.
 
 Object, Functions, Arrays Problems
