@@ -3,6 +3,7 @@ Q2. you have to take an array and cover all the arguments as much as it can be a
 Q3. Write a function if string exists or not?
 Q4. 50 or any random items and 83 to display in JSON how to repeat in js for in or map function
 
+--> Write a JavaScript function that accepts a string as a parameter and counts the number of vowels within the string. 
 --> Palindrome Checker: Write a function to check if a given string is a palindrome or not.
 --> FizzBuzz: Write a function that prints numbers from 1 to n, but for multiples of 3 print "Fizz" instead of the number and for the multiples of 5 print "Buzz". For numbers that are multiples of both three and five print "FizzBuzz".
 --> Reverse a String: Write a function to reverse a given string.

@@ -21,3 +21,27 @@ const result = FizzBuzzFunction(25, 1);
 
 console.table(result);
 console.log(...result);
+
+
+const FizzBuzzFunctionOtherWay = (end, start = 1) => {
+  const sortedArray = [];
+  for (let i = start; i < end; i++) {
+    
+    if (Number.isInteger(i / 3) && Number.isInteger(i / 5)) {
+      sortedArray.push("FizzBuzz");
+    } else if (Number.isInteger(i / 3)) {
+      sortedArray.push("Fizz");
+    } else if (Number.isInteger(i / 5)) {
+      sortedArray.push("Buzz");
+    } else {
+      sortedArray.push(i);
+    }
+  }
+
+  return sortedArray;
+};
+
+const result2 = FizzBuzzFunctionOtherWay(25, 1);
+
+console.table(result2);
+console.log(...result2);
